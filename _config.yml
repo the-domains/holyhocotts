@@ -1,14 +1,28 @@
+name: HolyHocotts
+favicon: null
 layout_spectrum: 0.7893617
 typography_spectrum: 0.912766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7930094
-  lightness: 0.8620524
-  brandStrength: 0.7340425
   brandColors:
-    - '#E2E7E7'
-    - '#1F8999'
-    - '#655D4B'
-    - '#A3A5A2'
-    - '#020304'
+    - '#ffffff'
+    - '#19bcb9'
+    - '#ee2e24'
+    - '#8cdddc'
+    - '#767d77'
+  brandStrength: 0.7340425
+  lightness: 0.8620524
+  saturation: 0.7930094
   rhythmicContrast: 0.2134848
-name: HolyHocotts
+purpose: []

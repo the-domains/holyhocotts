@@ -1,0 +1,14 @@
+layout_spectrum: 0.7893617
+typography_spectrum: 0.912766
+color:
+  saturation: 0.7930094
+  lightness: 0.8620524
+  brandStrength: 0.7340425
+  brandColors:
+    - '#E2E7E7'
+    - '#1F8999'
+    - '#655D4B'
+    - '#A3A5A2'
+    - '#020304'
+  rhythmicContrast: 0.2134848
+name: HolyHocotts

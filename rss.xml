@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HolyHocotts]]></title>
         <description><![CDATA[HolyHocotts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/holyhocotts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 03:21:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 06:03:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/holyhocotts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fededc92-c4a4-4b67-809d-9e0c05682c75.jpg">]]></description>
+            <link>https://thegrid.ai/holyhocotts/6d315766-43fd-466a-9b09-1ddd0695be62/index.html</link>
+            <guid isPermaLink="false">6d315766-43fd-466a-9b09-1ddd0695be62</guid>
+            <pubDate>Sun, 28 Feb 2016 06:03:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27af1465-943d-4363-9d2c-48cf85641e2c.jpg">]]></description>
-            <link>undefined653c5eaf-4aa8-4648-b9b9-97fd77cdd07c/index.html</link>
+            <link>https://thegrid.ai/holyhocotts/653c5eaf-4aa8-4648-b9b9-97fd77cdd07c/index.html</link>
             <guid isPermaLink="false">653c5eaf-4aa8-4648-b9b9-97fd77cdd07c</guid>
             <pubDate>Fri, 19 Feb 2016 03:20:53 GMT</pubDate>
         </item>

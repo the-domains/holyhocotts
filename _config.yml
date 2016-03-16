@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: HolyHocotts
 opengraph:
   image: null
   type: null
@@ -12,24 +9,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5
-  brandStrength: 0.5191489
+  brandStrength: 0.7468085
   lightness: 0.6875
   brandColors:
-    - '#0E0B02'
-    - '#888689'
-    - '#656530'
-    - '#DFAD2F'
-    - '#772802'
-  rhythmicContrast: 1
+    - '#171E20'
+    - '#98A5BE'
+    - '#D8DFEA'
+    - '#0DD7CF'
+    - '#919131'
+  rhythmicContrast: 0.5702128
 typography_spectrum: 0.85594
 cta:
   bucket: null
@@ -37,4 +34,7 @@ cta:
   domain: null
 layout_spectrum: 1
 favicon: null
-name: HolyHocotts
+analytics:
+  twitter: null
+  google: null
+  facebook: null

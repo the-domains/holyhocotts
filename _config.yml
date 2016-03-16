@@ -1,8 +1,7 @@
 name: HolyHocotts
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.85594
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.5
-  brandStrength: 0.7468085
-  lightness: 0.6875
-  brandColors:
-    - '#171E20'
-    - '#98A5BE'
-    - '#D8DFEA'
-    - '#0DD7CF'
-    - '#919131'
-  rhythmicContrast: 0.5702128
-typography_spectrum: 0.85594
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#909bb9'
+    - '#f5ddb9'
+    - '#13161b'
+    - '#535771'
+    - '#1a868a'
+  brandStrength: 0.5625
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.25
+purpose: []

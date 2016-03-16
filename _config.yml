@@ -1,5 +1,7 @@
-favicon: null
-name: HolyHocotts
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +29,12 @@ color:
     - '#656530'
     - '#DFAD2F'
     - '#772802'
-  rhythmicContrast: 0.2134848
+  rhythmicContrast: 1
 typography_spectrum: 0.85594
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
+favicon: null
+name: HolyHocotts
